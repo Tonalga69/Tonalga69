@@ -1,4 +1,5 @@
 
+ <img src="https://firebasestorage.googleapis.com/v0/b/athenas-307b8.appspot.com/o/apk%2Fdev.jpg?alt=media&token=655f308e-4933-4d50-bda8-f64c99671e8b" alt="DE">
 
 
 <h1 align="center">Hi 👋, I'm Samuel Ramos</h1>
@@ -6,6 +7,8 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonalga69&label=Profile%20views&color=0e75b6&style=flat" alt="tonalga69" /> </p>
+
+ <img src="https://firebasestorage.googleapis.com/v0/b/athenas-307b8.appspot.com/o/apk%2Fanimation_lnjs3wp5_small.gif?alt=media&token=f10f1955-13b4-4bc4-820a-4b611be63409" alt="DE">
 
 
 - 🔭 I’m currently working on [Flopps](https://github.com/Tonalga69/Flopps)
