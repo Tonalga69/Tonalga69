@@ -1,5 +1,5 @@
 
- <img src="[https://firebasestorage.googleapis.com/v0/b/athenas-307b8.appspot.com/o/apk%2Fdev.jpg?alt=media&token=655f308e-4933-4d50-bda8-f64c99671e8b](https://firebasestorage.googleapis.com/v0/b/athenas-307b8.appspot.com/o/_0dc13f3d-e5d3-4563-bf16-e09e3203b430.jpeg?alt=media&token=9ac62fd3-6d2c-4f0a-aab2-2513185999ef" alt="DE">
+ <img src="https://firebasestorage.googleapis.com/v0/b/athenas-307b8.appspot.com/o/_0dc13f3d-e5d3-4563-bf16-e09e3203b430.jpeg?alt=media&token=9ac62fd3-6d2c-4f0a-aab2-2513185999ef" alt="DE">
 
 
 <h1 align="center">Hi 👋, I'm Samuel Ramos</h1>
