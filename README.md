@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Flopps](https://github.com/Tonalga69/Flopps)
 
-- 🌱 I’m currently learning **Flutter, React, React Native**
+- 🌱 I’m currently learning **Flutter, Backend nodejs, Nextjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tonalga69/](https://github.com/Tonalga69/)
 
